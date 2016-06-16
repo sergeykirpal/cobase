@@ -1,0 +1,1 @@
+require('script!static/jsi18n/sv/djangojs.js')
